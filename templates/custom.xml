@@ -1,0 +1,53 @@
+<templateSet group="custom">
+  <template name="prvm" value="private void $METHOD_NAME$(){&#10;  $END$&#10;}" description="custom" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="lgd" value="android.util.Log.d(Constants.$TAG$, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.d(TAG, String) custom" toReformat="true" toShortenFQNames="true">
+    <variable name="TAG" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sho" value="{&#10;    &quot;id&quot;: &quot;#&quot;,&#10;    &quot;shadeName&quot;: &quot;$SH_NAME$&quot;,&#10;    &quot;particles&quot;: [&#10;      {&#10;        &quot;kolestonShade&quot;: &quot;$K_NAME$&quot;&#10;      }&#10;    ]&#10;}" description="shade with one particle" toReformat="false" toShortenFQNames="true">
+    <variable name="SH_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="shm" value="{&#10;    &quot;id&quot;: &quot;#&quot;,&#10;    &quot;shadeName&quot;: &quot;$SH_NAME$&quot;,&#10;    &quot;particles&quot;: [&#10;      {&#10;        &quot;kolestonShade&quot;: &quot;$K_NAME_1$&quot;,&#10;        &quot;proportion&quot;: $K_P1$&#10;      },&#10;      {&#10;        &quot;kolestonShade&quot;: &quot;$K_NAME_2$&quot;,&#10;        &quot;proportion&quot;: $K_P2$&#10;      }&#10;    ]&#10;}," shortcut="ENTER" description="shape with multiple particles" toReformat="false" toShortenFQNames="true">
+    <variable name="SH_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_NAME_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_P1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_NAME_2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_P2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="shn" value="{&#10;    &quot;id&quot;: &quot;#&quot;,&#10;    &quot;shadeName&quot;: &quot;$SH_NAME$&quot;,&#10;    &quot;particles&quot;: []&#10;}" description="no particles in shade" toReformat="false" toShortenFQNames="true">
+    <variable name="SH_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="shline" value="{&#10;    &quot;id&quot;: &quot;#&quot;,&#10;    &quot;name&quot;: &quot;$NAME$&quot;,&#10;    &quot;shades&quot;: [&#10;    &#10;    ]&#10;}&#10;" description="add line" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="shoblonde" value="{&#10;    &quot;id&quot;: &quot;#&quot;,&#10;    &quot;shadeName&quot;: &quot;$SH_NAME$&quot;,&#10;    &quot;developerKoeficient&quot;: 2,&#10;    &quot;specificDeveloperPercent&quot;: $SH_PERCENT$,&#10;    &quot;particles&quot;: [&#10;      {&#10;        &quot;kolestonShade&quot;: &quot;$K_NAME$&quot;&#10;      }&#10;    ]&#10;}" description="shade with one particle" toReformat="false" toShortenFQNames="true">
+    <variable name="SH_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SH_PERCENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="K_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+</templateSet>

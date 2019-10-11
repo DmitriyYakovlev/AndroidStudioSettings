@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="bgm" value="android:background=&quot;?android:attr/selectableItemBackground&quot;" shortcut="SPACE" description="material selectable background" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,16 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.theappsolutions.drinkonomy.model.MenuItem.MenuItem(itemId,itemText,iconId)" />
+        <added pattern="timber.log.Timber.d(t,message,args)" />
+        <added pattern="com.theappsolutions.fraudfinder.ui.events.Event.Event(label)" />
+        <added pattern="com.theappsolutions.yada.ui.base.BaseFragment.showToastMessage(text)" />
+        <added pattern="timber.log.Timber.d(t)" />
+        <added pattern="com.theappsolutions.yada.ui.base.BaseActivity.showToastMessage(textRes)" />
+        <added pattern="com.theappsolutions.yada.ui.base.BaseView.showToastMessage(text)" />
+        <added pattern="com.theappsolutions.yada.custom_views.bottom_menu.BottomMenuLayout.applyEnablingForControls(isFirstEnabled,isSecondEnabled,isWallEnable,isProfileEnable,state)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
