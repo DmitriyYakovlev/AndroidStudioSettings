@@ -326,7 +326,4 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMEN/PROJECTS/AndroidDev/1_SAMPLES/30_NOT_SORTED" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
-  </component>
 </application>
