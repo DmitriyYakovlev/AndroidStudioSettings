@@ -326,8 +326,12 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="DmytroYakovlev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://DmytroYakovlev@bitbucket.org/DmytroYakovlev/vocabularymanager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMEN/PROJECTS/AndroidDev/1_SAMPLES/30_NOT_SORTED" />
+    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev" />
   </component>
 </application>
