@@ -330,8 +330,12 @@
           <option name="url" value="https://DmytroYakovlev@bitbucket.org/DmytroYakovlev/vocabularymanager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlecodelabs/kotlin-coroutines.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev" />
+    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/10_ARCHITECTURE_APPROACHES" />
   </component>
 </application>
