@@ -4,6 +4,7 @@
       <mapping pattern="nav_graph" type="PLAIN_TEXT" />
       <mapping pattern="TODO_LIST" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".Gemfile" type="PLAIN_TEXT" />
       <mapping ext="vmex" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
