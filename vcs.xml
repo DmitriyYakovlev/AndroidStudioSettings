@@ -354,4 +354,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/10_ARCHITECTURE_APPROACHES" />
   </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+  </component>
 </application>
