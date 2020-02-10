@@ -10,9 +10,7 @@
       <mapping pattern="TODO_LIST" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping ext="vmex" type="PLAIN_TEXT" />
-      <mapping ext="a" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
