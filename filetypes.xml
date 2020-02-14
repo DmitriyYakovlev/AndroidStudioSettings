@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="release-notes-history" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="versions_history" type="PLAIN_TEXT" />
       <mapping pattern=".Gemfile" type="PLAIN_TEXT" />
