@@ -15,8 +15,8 @@
       <mapping pattern="req_custom_frames" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
-      <mapping pattern="TODO_LIST" type="PLAIN_TEXT" />
       <mapping pattern="booking_level_extra_info" type="PLAIN_TEXT" />
+      <mapping pattern="TODO_LIST" type="PLAIN_TEXT" />
       <mapping ext="vmex" type="PLAIN_TEXT" />
       <mapping ext="entitlements" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
