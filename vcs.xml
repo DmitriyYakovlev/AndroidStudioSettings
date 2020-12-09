@@ -466,6 +466,10 @@
           <option name="url" value="https://github.com/jitsi/jitsi-meet.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sahilbhosale63/TwitterAuth.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/JITSY" />
