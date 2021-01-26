@@ -498,9 +498,13 @@
           <option name="url" value="https://github.com/mlykotom/connecting-the-dots-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mapbox/mapbox-search-android-examples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/MAP_BOX" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
