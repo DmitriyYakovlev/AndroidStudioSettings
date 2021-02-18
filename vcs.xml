@@ -510,9 +510,13 @@
           <option name="url" value="https://github.com/googlecodelabs/while-in-use-location" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/juicycleff/flutter-unity-arkit-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/1_UI" />
+    <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/FLUTTER" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
