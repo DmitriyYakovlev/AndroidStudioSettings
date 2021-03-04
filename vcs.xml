@@ -530,6 +530,10 @@
           <option name="url" value="https://github.com/sverbist/android-tablayout.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/freei-0/Xplore-images.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/DEVELOPMENT/PROJECTS/AndroidDev/1_SAMPLES/1_UI" />
